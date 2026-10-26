@@ -1,10 +1,5 @@
 #!/bin/sh
 
-#---------------------------------------------#
-# Author: Adam WezvaTechnologies
-# Call/Whatsapp: +91-9739110917
-#---------------------------------------------#
-
 DOCKER="/usr/bin/docker"
 DRYRUN=0
 
